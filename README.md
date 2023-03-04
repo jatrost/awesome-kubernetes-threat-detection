@@ -87,6 +87,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 * [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
 * [Consider All Microservices Vulnerable — And Monitor Their Behavior](https://kubernetes.io/blog/2023/01/20/security-behavior-analysis/)
 * [K8 Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
+* [Kubernetes Hunting & Visibility](https://www.lares.com/blog/kubernetes-hunting-visibility/)
 
 ### Hardening
 
@@ -176,6 +177,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 ## People
 
 * [@_fel1x](https://twitter.com/_fel1x)
+* [@Antonlovesdnb](https://twitter.com/Antonlovesdnb)
 * [@bibryam](https://twitter.com/bibryam)
 * [@bradgeesaman](https://twitter.com/bradgeesaman)
 * [@christophetd](https://twitter.com/christophetd)
@@ -193,6 +195,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 * [@ramesh-ramani](https://www.linkedin.com/in/ramesh-ramani-08bb6b16/)
 * [@randyabernethy](https://twitter.com/randyabernethy)
 * [@saschagrunert](https://twitter.com/saschagrunert)
+* [@sethsec](https://twitter.com/sethsec)
 * [@shaul-ben-hai](https://www.linkedin.com/in/shaul-ben-hai-b1609863/)
 * [@sshaybbc](https://twitter.com/sshaybbc)
 * [@Steph3nSims](https://twitter.com/Steph3nSims)
