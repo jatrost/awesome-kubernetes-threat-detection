@@ -40,7 +40,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 * [Purple Teaming Like Sky’s the Limit – Adversary Emulation in the Cloud](https://www.youtube.com/watch?v=hDJpU4Eh1ms) 
 * [Uncovering a Sophisticated Kubernetes Attack in Real Time Part II.](https://www.oreilly.com/library/view/infrastructure-ops/0636920625377/video335775.html)
 * [Keeping your cluster safe from attacks with eBPF](https://www.youtube.com/watch?v=agN68U8x1go)
-* [Threat Modelling Kubernetes: A Lightspeed Introduction](https://www.youtube.com/watch?v=gkXoYFKqQkE&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=184)
+* [Threat Modeling Kubernetes: A Lightspeed Introduction](https://www.youtube.com/watch?v=gkXoYFKqQkE&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=184)
 
 ### Hardening
 
@@ -140,7 +140,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 * [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
 * [Sock Shop: A Microservices Demo Application](https://microservices-demo.github.io/)
 
-### Atack Tools
+### Attack
 
 * [kubesploit](https://github.com/cyberark/kubesploit)
 * [Falco-bypasses](https://github.com/blackberry/Falco-bypasses)
@@ -204,4 +204,3 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 * [@tpapagian](https://github.com/tpapagian)
 * [@willfindlay](https://github.com/willfindlay)
 * [@yuvalavra](https://twitter.com/yuvalavra)
-
