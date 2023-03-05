@@ -31,6 +31,8 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 
 ## Talks and videos
 
+All of these videos can also be found in this [YouTube playlist](https://www.youtube.com/playlist?list=PL5ZaBJnKnwWxecVvTc0cWMu-GDdB1i8dh).
+
 ### Detection
 
 * [Keynote: Detecting Threats in GitHub with Falco](https://www.youtube.com/watch?v=o3Mz3ha3gMM) 
@@ -175,6 +177,8 @@ A curated list of resources about detecting threats and defending Kubernetes sys
   * [exposures/configs/kube*.yaml](https://github.com/projectdiscovery/nuclei-templates/tree/main/exposures/configs)
 
 ## People
+
+All the twitter accounts below are on this Twitter list: [awesome-k8-threat-detect](https://twitter.com/i/lists/1632421444347895808)
 
 * [@_fel1x](https://twitter.com/_fel1x)
 * [@Antonlovesdnb](https://twitter.com/Antonlovesdnb)
