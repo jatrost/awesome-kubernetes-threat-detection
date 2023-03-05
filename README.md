@@ -90,6 +90,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [Consider All Microservices Vulnerable — And Monitor Their Behavior](https://kubernetes.io/blog/2023/01/20/security-behavior-analysis/)
 * [K8 Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
 * [Kubernetes Hunting & Visibility](https://www.lares.com/blog/kubernetes-hunting-visibility/)
+* [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
 
 ### Hardening
 
