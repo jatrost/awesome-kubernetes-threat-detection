@@ -109,6 +109,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [(twitter thread)Quick and dirty way to get out of a privileged k8s pod or docker container by using cgroups release_agent feature.](https://twitter.com/_fel1x/status/1151487051986087936?s=61&t=PSSblCulQVddrn-KweAbhQ)
 * [Bad Pods: Kubernetes Pod Privilege Escalation](https://bishopfox.com/blog/kubernetes-pod-privilege-escalation) [[code/examples](https://github.com/BishopFox/badPods)]
 * [Kernel privilege escalation: how Kubernetes container isolation impacts privilege escalation attacks](https://snyk.io/blog/kernel-privilege-escalation/)
+* [GKE Kubelet TLS Bootstrap Privilege Escalation](https://rhinosecuritylabs.com/cloud-security/kubelet-tls-bootstrap-privilege-escalation/)
 
 
 ## TTPs / Attack Matrices
