@@ -118,7 +118,8 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [MITRE ATT&CK Containers Matrix](https://attack.mitre.org/matrices/enterprise/containers/)
 * [Threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2020/04/02/attack-matrix-kubernetes/) 
 * [Secure containerized environments with updated threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
-* [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/) [[sysdig's write up](https://sysdig.com/blog/top-owasp-kubernetes/)]
+* [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
+* [OWASP Kubernetes Top 10 (Sysdig)](https://sysdig.com/blog/top-owasp-kubernetes/)
 
 ## Tools
 
