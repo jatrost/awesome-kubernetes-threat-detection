@@ -91,6 +91,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [K8 Audit Logs](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/)
 * [Kubernetes Hunting & Visibility](https://www.lares.com/blog/kubernetes-hunting-visibility/)
 * [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
+* [Detecting Cryptomining Attacks in the wild](https://sysdig.com/blog/detecting-cryptomining-attacks-in-the-wild/)
 
 ### Hardening
 
@@ -117,7 +118,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [MITRE ATT&CK Containers Matrix](https://attack.mitre.org/matrices/enterprise/containers/)
 * [Threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2020/04/02/attack-matrix-kubernetes/) 
 * [Secure containerized environments with updated threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
-* [OWASP Kubernetes Top 10](https://sysdig.com/blog/top-owasp-kubernetes/)
+* [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/) [[sysdig's write up](https://sysdig.com/blog/top-owasp-kubernetes/)]
 
 ## Tools
 
@@ -213,3 +214,4 @@ All the twitter accounts below are on this Twitter list: [awesome-k8-threat-dete
 * [@tpapagian](https://github.com/tpapagian)
 * [@willfindlay](https://github.com/willfindlay)
 * [@yuvalavra](https://twitter.com/yuvalavra)
+* [@jimmesta](https://twitter.com/jimmesta)
