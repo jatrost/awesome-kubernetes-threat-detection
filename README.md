@@ -92,6 +92,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [Kubernetes Hunting & Visibility](https://www.lares.com/blog/kubernetes-hunting-visibility/)
 * [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
 * [Detecting Cryptomining Attacks in the wild](https://sysdig.com/blog/detecting-cryptomining-attacks-in-the-wild/)
+* [Security platform that provides threat detection and prevention, network segmentation, and vulnerability management for Kubernetes](https://github.com/neuvector/neuvector)
 
 ### Hardening
 
