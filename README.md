@@ -120,6 +120,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [Secure containerized environments with updated threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 * [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 * [OWASP Kubernetes Top 10 (Sysdig)](https://sysdig.com/blog/top-owasp-kubernetes/)
+* [AVOLENS Kubernetes Threat Matrix](https://kubernetes-security.de/en/kubernetes_threat_matrix/#kubernetes-threat-matrix)
 
 ## Tools
 
