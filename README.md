@@ -92,12 +92,19 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [Kubernetes Hunting & Visibility](https://www.lares.com/blog/kubernetes-hunting-visibility/)
 * [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
 * [Detecting Cryptomining Attacks in the wild](https://sysdig.com/blog/detecting-cryptomining-attacks-in-the-wild/)
+* [Threat Alert: Kinsing Malware Attacks Targeting Container Environments](https://blog.aquasec.com/threat-alert-kinsing-malware-container-vulnerability)
+* [TeamTNT Actively Enumerating Cloud Environments to Infiltrate Organizations](https://unit42.paloaltonetworks.com/teamtnt-operations-cloud-environments/)
+* [TeamTNT Targeting AWS, Alibaba](https://blog.talosintelligence.com/teamtnt-targeting-aws-alibaba-2/)
+* [Hildegard: New TeamTNT Cryptojacking Malware Targeting Kubernetes](https://unit42.paloaltonetworks.com/hildegard-malware-teamtnt/)
+* [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments](https://unit42.paloaltonetworks.com/siloscape/)
+* [CrowdStrike Discovers First-Ever Dero Cryptojacking Campaign Targeting Kubernetes](https://www.crowdstrike.com/blog/crowdstrike-discovers-first-ever-dero-cryptojacking-campaign-targeting-kubernetes/)
 
 ### Hardening
 
 * [NSA Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 * [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/)
 * [Container security fundamentals: Exploring containers as processes](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-1/)
+* [Container security fundamentals part 2: Isolation & namespaces](https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/)
 * [Kubernetes Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 * [Under-documented Kubernetes Security Tips](https://www.macchaffee.com/blog/2022/k8s-under-documented-security-tips/)
 
