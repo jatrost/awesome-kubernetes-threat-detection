@@ -61,6 +61,7 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [Trampoline Pods: Node to Admin PrivEsc Built Into Popular K8s Plat](https://www.youtube.com/watch?v=PGsJ4QTlKlQ&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=234) 
 * [Three Surprising K8s Networking “Features” and How to Defend Against Them](https://www.youtube.com/watch?v=7iwnwbbmxqQ&list=PLj6h78yzYM2MCEgkd8zH0vJWF7jdQ-GRR&index=118) 
 * [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s)
+* [The Path Less Traveled: Abusing Kubernetes Defaults](https://m.youtube.com/watch?v=HmoVSmTIOxM)
 
 ### Supply Chain
 
