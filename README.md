@@ -15,7 +15,7 @@ A curated list of resources about detecting threats and defending Kubernetes sys
 
 ## Books
 
-* [Hacking Kubernetes](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) By Andrew Martin, Michael Hausenblas [[amazon](https://amzn.to/3msjXDH)]
+* [Hacking Kubernetes](https://learning.oreilly.com/library/view/hacking-kubernetes/9781492081722/) By Andrew Martin, Michael Hausenblas [[free download](https://control-plane.io/hackingkubernetes/)] [[amazon](https://amzn.to/3msjXDH)]
 * [Kubernetes Security and Observability](https://learning.oreilly.com/library/view/-/9781098107093/) by Brendan Creane, Amit Gupta [[amazon](https://amzn.to/3mt21sh)]
 * [Security Observability with eBPF](https://learning.oreilly.com/library/view/security-observability-with/9781492096719/) by Jed Salazar and Natalia Reka Ivanko
 * Gray Hat Hacking, 6th Ed. (relevant chapters) By Allen Harper, Ryan Linn, Stephen Sims, Michael Baucom, Huascar Tejeda, Daniel Fernandez, Moses Frost [[amazon](https://amzn.to/41FZXO5)]
