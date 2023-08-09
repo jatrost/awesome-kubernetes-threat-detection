@@ -135,16 +135,20 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 ### Detection
 
 * [falco](https://github.com/falcosecurity/falco)
-* [tetragon](https://github.com/cilium/tetragon)
-* [sysdig](https://github.com/draios/sysdig)
-* [tracee](https://github.com/aquasecurity/tracee)
+* [kube-bench](https://github.com/aquasecurity/kube-bench)
+* [kubesec](https://github.com/controlplaneio/kubesec)
 * [security-guard](https://github.com/knative-sandbox/security-guard)
+* [sysdig](https://github.com/draios/sysdig)
+* [tetragon](https://github.com/cilium/tetragon)
+* [tracee](https://github.com/aquasecurity/tracee)
+* [trivy](https://github.com/aquasecurity/trivy)
 
 ### Hardening
 
 * [seccomp](https://kubernetes.io/docs/tutorials/security/seccomp/) - "can be used to sandbox the privileges of a process, restricting the calls it is able to make from userspace into the kernel."
 * [AppArmor](https://kubernetes.io/docs/tutorials/security/apparmor/) - "AppArmor is a Linux kernel security module that supplements the standard Linux user and group based permissions to confine programs to a limited set of resources. AppArmor can be configured for any application to reduce its potential attack surface and provide greater in-depth defense."
 * [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper) - "A customizable cloud native policy controller that helps enforce policies and strengthen governance"
 
 ### Simulation / Experimentation
 
@@ -166,6 +170,14 @@ All of these videos can also be found in this [YouTube playlist](https://www.you
 * [botb](https://github.com/brompwnie/botb)
 * [kubernetes-info.nse script](https://gist.github.com/jpts/5d23bfd9b8cc08e32a3591c8195482a8)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+
+### Platforms
+
+* [m9sweeper](https://github.com/m9sweeper/m9sweeper) - "m9sweeper is a free and easy kubernetes security platform. It integrates industry-standard open source utilities into a one-stop-shop kubernetes security tool that can walk most kubernetes adminstrators through securing a kubernetes cluster as well as the apps running on the cluster."
+* [anchore](https://anchore.com/) - "Software Composition Analysis from Code to Cloud: Enables security teams to find every piece of software in cloud native applications. Block and fix security issues in minutes rather than days."
+* [Prisma Cloud Compute Edition (formerly Twistlock)](https://github.com/twistlock) - "Prisma Cloud secures applications from code to cloud, enabling security and DevOps teams to effectively collaborate to accelerate secure cloud-native application development and deployment."
+* [sysdig](https://sysdig.com/) - "Sysdig is a universal system visibility tool with native support for containers"
+* [Aqua Security](https://github.com/aquasecurity) - "Unified Cloud Security: Accelerate secure innovation and protect your entire development lifecycle from code to cloud and back."
 
 ### Misc
 
